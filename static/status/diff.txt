@@ -1,0 +1,10 @@
+Files /mnt/d/dc/krcharpack/character/c503_01.pck and /mnt/c/Users/Kang/Documents/XuanZhi/Pictures/new/character/c503_01.pck differ
+Only in /mnt/c/Users/Kang/Documents/XuanZhi/Pictures/new/character/: c505_00.pck
+Only in /mnt/c/Users/Kang/Documents/XuanZhi/Pictures/new/character/: c505_01.pck
+Only in /mnt/c/Users/Kang/Documents/XuanZhi/Pictures/new/character/: c505_02.pck
+Only in /mnt/c/Users/Kang/Documents/XuanZhi/Pictures/new/character/: c505_10.pck
+Only in /mnt/c/Users/Kang/Documents/XuanZhi/Pictures/new/character/: c506_00.pck
+Only in /mnt/c/Users/Kang/Documents/XuanZhi/Pictures/new/character/: c506_01.pck
+Only in /mnt/c/Users/Kang/Documents/XuanZhi/Pictures/new/character/: c506_02.pck
+Files /mnt/d/dc/krcharpack/character/image.pck and /mnt/c/Users/Kang/Documents/XuanZhi/Pictures/new/character/image.pck differ
+Files /mnt/d/dc/krcharpack/character/model_info.json and /mnt/c/Users/Kang/Documents/XuanZhi/Pictures/new/character/model_info.json differ
